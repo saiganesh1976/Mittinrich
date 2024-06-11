@@ -21,7 +21,7 @@ As we see nowadays organic farming is widely practicing by the people. It involv
 12. LCD screen : It displays all the readings and statuses of the bin, providing real-time information to the user.
 
 
-## IMPLEMENTATION AND WORKING
+## Implementation
  
 i.	Initially the waste which is collected in the dust bin is dumped into the Smart compost bin for preparation of the compost.
 ii.	The preparation of the compost takes around 30 to 45 days for getting a good and proper nutrient compost.
@@ -30,7 +30,7 @@ iv.	The bin automatically inlets water when the compost is dried and the lid of 
 v.	These are displayed to the user for their next action to be taken.
 vi.	All the readings in the bin are displayed on the LCD screen at the top of the bin.
 
-## RESULT
+## Results
 
 The smart compost gives you good fertilizer for the growth of plants and can be used for agriculture purpose. This project is a helpful for the people to grow the organic plants in their houses and can save their health from artificially grown one
 
