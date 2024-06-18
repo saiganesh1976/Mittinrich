@@ -23,12 +23,12 @@ As we see nowadays organic farming is widely practicing by the people. It involv
 
 ## Implementation
  
-i.	Initially the waste which is collected in the dust bin is dumped into the Smart compost bin for preparation of the compost.
-ii.	The preparation of the compost takes around 30 to 45 days for getting a good and proper nutrient compost.
-iii. In those days the smart compost bin monitors various processes like mixing the waste and crushing, checking the temperature, monitoring the released gases.
-iv.	The bin automatically inlets water when the compost is dried and the lid of the box is opened and alarms the users when excess number of gases are evolved.
-v.	These are displayed to the user for their next action to be taken.
-vi.	All the readings in the bin are displayed on the LCD screen at the top of the bin.
+1.	Initially the waste which is collected in the dust bin is dumped into the Smart compost bin for preparation of the compost.
+2.	The preparation of the compost takes around 30 to 45 days for getting a good and proper nutrient compost.
+3.	In those days the smart compost bin monitors various processes like mixing the waste and crushing, checking the temperature, monitoring the released gases.
+4.	The bin automatically inlets water when the compost is dried and the lid of the box is opened and alarms the users when excess number of gases are evolved.
+5.	These are displayed to the user for their next action to be taken.
+6.	All the readings in the bin are displayed on the LCD screen at the top of the bin.
 
 ## Results
 
